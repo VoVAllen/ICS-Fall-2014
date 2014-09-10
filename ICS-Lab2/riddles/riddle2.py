@@ -7,7 +7,7 @@ Riddle #2
 (3) Does the while loop in func() always terminate? Why or why not?
 """
 
-# HINT: xkcd 710
+# HINT: http://xkcd.com/710
 
 def func(x):
     
